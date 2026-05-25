@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="342.21121"
+   height="342.52838"
+   fill="#ee1c25"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="hongKong.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.2883333"
+     inkscape:cx="163.3894"
+     inkscape:cy="175.80854"
+     inkscape:window-width="1536"
+     inkscape:window-height="793"
+     inkscape:window-x="-8"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <g
+     id="a"
+     style="display:inline"
+     transform="translate(-287.30574,-124.12848)">
+    <path
+       id="path2"
+       d="m 480.45312,124.13867 a 90.342104,90.342104 0 0 0 -34.94726,174.19727 69.880683,69.880683 0 0 1 -16.75391,-95.79297 15.809868,15.809868 0 0 0 1.10743,1.04883 68.374981,68.374981 0 0 0 17.06835,93.91406 38.650583,38.650583 0 0 1 10.81641,-64.31445 45.171052,45.171052 0 0 0 20.29102,-66.20313 27.917245,27.917245 0 0 1 14.90039,-41.79297 90.342104,90.342104 0 0 0 -12.48243,-1.05664 z m -46.62304,52.95899 7.61914,8.59375 10.5293,-4.5918 -5.81836,9.9043 7.62109,8.59375 -11.2168,-2.47461 -5.81836,9.90429 -1.11328,-11.43164 -11.21875,-2.47461 10.5293,-4.59179 z"
+       style="fill:#ffffff" />
+  </g>
+  <g
+     id="b"
+     style="display:inline"
+     transform="translate(-287.30574,-124.12848)">
+    <use
+       xlink:href="#a"
+       transform="rotate(72,220.92303,435.65698)"
+       id="use3" />
+    <use
+       xlink:href="#a"
+       transform="rotate(-144,326.51302,191.26012)"
+       id="use4" />
+  </g>
+  <use
+     xlink:href="#b"
+     transform="rotate(72,162.69425,175.87153)"
+     id="use5"
+     style="display:inline" />
+</svg>
